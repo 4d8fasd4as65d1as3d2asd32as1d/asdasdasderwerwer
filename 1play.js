@@ -234,4 +234,4 @@ guild.leave()
 }
 })
 
-	client.login("NDc1MDY2ODkyNzAxNDAxMDg5.DkZohQ.rjBGU_HAmm_K6nU9uJfTRo5KCVg");
+	client.login(process.env.BOT_TOKEN);
