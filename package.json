@@ -2,7 +2,7 @@
   "name": "bytetech",
   "version": "2.1.0",
   "description": "-- AWESOMENESS --",
-  "main": "bot.js",
+  "main": "1play.js",
   "scripts": {
     "start": "node 1play.js"
   },
