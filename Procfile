@@ -1,1 +1,1 @@
-node 1play.js
+worker: node bot.js
